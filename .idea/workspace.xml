@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1472c7b-3035-41c4-9704-c60e92593128" name="Default Changelist" comment="" />
+    <list default="true" id="a1472c7b-3035-41c4-9704-c60e92593128" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +55,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -158,30 +166,46 @@
       <workItem from="1615303642231" duration="1990000" />
       <workItem from="1615353401991" duration="25599000" />
       <workItem from="1615422319064" duration="35806000" />
-      <workItem from="1615509624783" duration="10588000" />
+      <workItem from="1615509624783" duration="11312000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1615551292873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615551292873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="90" key="#Auto_Import" timestamp="1615216889429">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="90" key="#Auto_Import/0.0.1536.864@0.0.1536.864" timestamp="1615216889429" />
-    <state x="361" y="90" key="#Notifications" timestamp="1614989545665">
+    <state x="361" y="90" key="#Deployment" timestamp="1615551446188">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1614989545665" />
+    <state x="361" y="90" key="#Deployment/0.0.1536.864@0.0.1536.864" timestamp="1615551446188" />
+    <state x="361" y="90" key="#Notifications" timestamp="1615551646070">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1615551646070" />
     <state x="361" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615432565772">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1615432565772" />
-    <state x="513" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614994625279">
+    <state x="513" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615551577665">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="513" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1614994625279" />
+    <state x="513" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1615551577665" />
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1615448391015">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -202,6 +226,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1615366344701" />
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1615551959645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1615551959645" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1615249837230">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -258,6 +286,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1614937744772" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615551742015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1615551742015" />
     <state x="565" y="209" key="chooseDestDirectoryDialog" timestamp="1615448287825">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
