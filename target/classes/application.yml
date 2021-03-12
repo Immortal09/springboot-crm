@@ -1,0 +1,35 @@
+server:
+  servlet:
+    jsp:
+      init-parameters:
+        development: true
+  port: 8989         #配置项目访问端口
+  #配置jsp试图解析器
+spring:
+  mvc:
+    view:
+      prefix: /jsp/
+      suffix: .jsp
+  #配置数据源
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/crm?characterEncoding=utf-8
+#配置mybatis扫描mapper
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  type-aliases-package: com.immortal.entity
+
+
+#添加redis
+redis:
+  host: 192.168.68.135
+  port: 6379
+  timeout: 6000
+  database: 0
+  jedis:
+    pool:
+      max-idle: 8
+      min-idle: 0
